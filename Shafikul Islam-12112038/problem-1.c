@@ -13,7 +13,7 @@ int main()
     else{
         printf("Number1 & Number2 are not equal\n");
     }
-    return 0;
+  
 }
 
 

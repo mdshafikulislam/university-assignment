@@ -37,5 +37,6 @@ void main()
    printf("Amount Charges @Rs. %4.2f  per unit :%8.2f\n",chg,gramt);
    printf("Surchage Amount                     :%8.2f\n",surchg);
    printf("Net Amount Paid By the Customer     :%8.2f\n",netamt);
+	return 0;
 
 }  

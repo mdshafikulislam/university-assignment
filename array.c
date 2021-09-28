@@ -12,7 +12,7 @@ int main()
 
     printf("Your Array Length is = ");
     scanf("%d",&n);
-    printf("Enter your Element of array = ");
+    printf("Enter your Element of array Value= ");
 
     for(i=0;i<n;i++)
     {
